@@ -97,25 +97,3 @@ def print_results(results):
 if __name__ == '__main__':
   main(sys.argv)
   
-  
-  Regras básicas da Daily Scrum
-
-Para que a Scrum Meeting possa funcionar de forma efetiva, existem algumas regras que devem ser estabelecidas e mantidas pelo Scrum Master:
-
-Duração máxima de 15 minutos (No nosso caso será 25 minutos. Se ficar ruim alteramos novamente)
-- Assim como os demais eventos do Scrum, essas reuniões possuem um tempo fixo.
-- Reuniões longas e monótonas são ótimas formas de começar mal o dia (acaba com a energia das pessoas).
-- As reuniões não podem ultrapassar 15 minutos, pois após esse tempo, as pessoas começam a se distrair e perder o foco principal, deixando a reunião pouco produtiva.
-
-Mesmo local e horários todos os dias
-- O objetivo dessa regra é fazer com que as pessoas se acostumem e passem a sentir que essas reuniões fazem parte de sua rotina diária.
-- A reunião deve iniciar mesmo quando algum membro da equipe ainda não tenha chegado, ou caso alguém tenha que faltar.
-
-Todos os membros do time devem responder três perguntas
-1.	O que eu fiz desde a última Daily Scrum?
-2.	O que vou fazer hoje?
-3.	Quais são os impedimentos que estão me atrapalhando de realizar meu trabalho?
-
-Com as respostas para essas perguntas, a equipe organiza meios de resolver os impedimentos, contando com a ajuda do Scrum Master, que tem como uma de suas funções remover os impedimentos que surgem durante o andamento do projeto e atrapalham o Time de Desenvolvimento.
-
-Vale ressaltar que a resolução dos problemas levantados durante a reunião não é feita durante a reunião, mas após o evento com as pessoas envolvidas. 
